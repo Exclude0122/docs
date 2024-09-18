@@ -1,6 +1,6 @@
 ---
 title: Xi VPN
-layout: default
+layout: home
 ---
 
 Hello, world

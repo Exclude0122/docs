@@ -1,2 +1,6 @@
 title: Xi VPN
 theme: minima
+description: Xi VPN is a VPN app that support XRAY proxy protocols.
+
+header_pages:
+  - privacy-policy.md
