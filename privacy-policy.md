@@ -1,5 +1,5 @@
 ---
-title: Xi VPN
+title: Privacy Policy
 layout: page
 ---
 
