@@ -3,4 +3,4 @@ title: Xi VPN
 layout: home
 ---
 
-Hello, world
+Another XRAY Client for Android
